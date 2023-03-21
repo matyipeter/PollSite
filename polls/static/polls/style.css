@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: black url('images/ocean.jpg') no-repeat;
+    background-size: 1920px, 1080px;
+}
